@@ -18,8 +18,8 @@
 * 🌱 I’m improving my skills in **PHP, MySQL, Liquid, and Custom Web Solutions**
 * 💼 I love building **eCommerce, business, and custom dynamic websites**
 * 🎯 My focus is on **clean design, better performance, and smooth user experience**
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
-* 🌐 Portfolio: **your-portfolio-link.com**
+* 📫 Reach me at: **[bayazid416@gmail.com](mailto:bayazid416@gmail.com)**
+* 🌐 Portfolio: **https://bayzidmostafiz.com**
 
 ---
 
